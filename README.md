@@ -96,8 +96,8 @@ jupyter notebook covid_analysis.ipynb
 
 I am an aspiring data analyst with skills in **Python, SQL, and Excel**, looking to apply data-driven thinking to solve real business problems.
 
-📧 your.email@gmail.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourname)
+📧 yashaswinikunder24@gmail.com
+🔗 [LinkedIn Profile]([https://linkedin.com/in/](https://www.linkedin.com/in/yashaswini-kunder-0555a2223/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuL2SpgTAS%2FisZe1y8XYNlQ%3D%3D))
 
 ---
 
